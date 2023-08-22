@@ -17,4 +17,4 @@ M to mark a mine. Ctrl-C to Exit.
  ```
 Preview:
 
- ![alt text](preview.gif)
+<img src="preview_terminal_loop.gif" width=900 height=689 >
